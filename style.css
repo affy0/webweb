@@ -149,7 +149,7 @@ font-size: 20px;
 }
 
 /* about header */
-/* .question{
+.question{
   text-align: justify;
   font-size: 40px;
   font-style: italic;
@@ -157,7 +157,7 @@ font-size: 20px;
   position: absolute;
   top:70px;
   right:1000px;
-} */
+}
 
 /* link back to home page */
 
